@@ -1,0 +1,63 @@
+2-17
+scanf读到空格就不读了，getchar只能读取一个字符
+在while循环中，break用于永久的终止循环
+在while循环中，continue的作用是跳过本次循环continue后边的代码直接去判断部分，看是否进行下一次循环
+不可再for循还体内修改循环变量，防止for循环失去控制
+
+2-18
+学习C语言的查询工具：
+www.cplusplus.com
+http://en.cppreference.com
+https://cplusplus.com/reference/ 
+程序员的知乎：https://stackoverflow.com/
+开发板：正点原子，飞思卡尔，新塘
+牛客网：https://www.nowcoder.com/ta/beginner-programmers
+i=0, 7
+i=1, 13
+i=2, 
+温湿度：外界温湿度传感器DHT11或者DS18B20数字温度传感器      6元
+光敏：1路光感应传感器（光敏电阻）
+无线：可外接NRF24L01无线2.4通信模块
+蓝牙：可外接HC05蓝牙模块      15元 - 17元
+WiFi：可外接ESP-01模块      7元
+摄像头：可外扩30w彩色OV7725摄像头模块
+
+
+1000 0011
+0001 0000
+1001 0011
+
+1001 0011
+0100 0000
+1101 0011
+
+
+0000 0000 0000 0000
+1111 1111 0000 1111
+0000 0000 0000 0000
+
+fun(5),n=5,x=1,k=1,1<5   x = 1+1*fun(4);
+fun(4),n=4,x=1,k=1,1<4   x = 1+1*fun(3);
+fun(3),n=3,x=1,k=1,1<3   x = 1+1*fun(2);
+fun(2),n=2,x=1,k=1,1<2   x = 1+1*fun(1);
+fun(1),n=1,x=1,k=1,         x = 1;
+
+
+
+
+通信协议：UART (Universal Asynchronous Receiver Transmitter通用异步收发器)
+                IIC<->I2C（inter-integrated Circuit集成电路总线)
+                SPI (Serial Peripheral interface串行外围设备接口)
+                PWM (Pulse-width modulation脉冲宽度调制)：利用微处理器的数字输出来对模拟电路进行控制的一种技术
+                ADC (Analog-to-Digital Converter模数转换)：模拟信号是连续的，比如电压，温度，长度等。拿长度来说，1cm和2cm之间就有无穷无尽个值。而数字信号是离散的，它的任何一个值都是规定的最小数单位的整数倍
+                DAC (Digital-to-Analog Converter数模转换)
+                DAM (Direct Memory  Access直接存储器访问)
+                CAN (Controller Area Network控制器局域网)
+                TCP/IP
+
+
+
+
+
+
+ 
